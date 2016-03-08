@@ -2,6 +2,7 @@ name: push
 favicon: null
 layout_spectrum: 0.011077433358877897
 typography_spectrum: 0.1676484860945493
+title: 'Inspiration '
 cta:
   domain: null
   bucket: null
